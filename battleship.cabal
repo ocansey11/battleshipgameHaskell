@@ -3,8 +3,8 @@ name: battleship
 version: 0.1.0.0
 synopsis: A Battleship game implementation in Haskell
 description: A command-line Battleship game with support for single player vs computer
-author: Your Name
-maintainer: your.email@example.com
+author: Kevin Ocansey
+maintainer: kevinocansey11@gmail.com
 category: Game
 build-type: Simple
 
