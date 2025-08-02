@@ -1,0 +1,22 @@
+# Cabal build artifacts
+dist/
+dist-newstyle/
+.ghc.environment.*
+
+# Stack build artifacts (if using Stack)
+.stack-work/
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.bak
